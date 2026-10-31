@@ -73,7 +73,7 @@ Fine-tuning scripts and notes: [training/](training/README.md).
 ## About the author
 **Keroles Farouk** — IT Manager with about 15 years in enterprise IT infrastructure
 (networks, security, virtualization, ERP), who also builds his own tools in C#/.NET and Python.
-This project started from a real need: reading Arabic documents and ID cards at work
+EGY-OCR is built to read Arabic documents and ID cards accurately
 without sending them to any online service.
 
 - LinkedIn: [Keroles Farouk](https://www.linkedin.com/in/keroles-farouk-6b715424/)
@@ -113,6 +113,6 @@ PP-OCRv5 (Apache 2.0).
 البرنامج **بيقرا** المستندات الرسمية بس، وما بيعدّلش فيها.
 
 **عن المطوّر:** Keroles Farouk، مدير تكنولوجيا معلومات بخبرة حوالي ١٥ سنة في البنية التحتية،
-وبيطوّر أدواته بنفسه بـ C#/.NET وPython. المشروع بدأ من احتياج حقيقي: قراءة المستندات
-العربية والبطايق في الشغل من غير ما تتبعت لأي خدمة على الإنترنت.
+وبيطوّر أدواته بنفسه بـ C#/.NET وPython. البرنامج معمول عشان يقرا المستندات
+العربية والبطايق بدقة من غير ما تتبعت لأي خدمة على الإنترنت.
 [LinkedIn](https://www.linkedin.com/in/keroles-farouk-6b715424/)
