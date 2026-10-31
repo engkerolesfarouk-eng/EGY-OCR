@@ -1,0 +1,8 @@
+EGY-OCR (Python package: arocr)
+Copyright 2026 Keroles Farouk
+
+This product includes models derived from PaddleOCR PP-OCRv5
+(https://github.com/PaddlePaddle/PaddleOCR), Copyright PaddlePaddle Authors,
+licensed under the Apache License, Version 2.0. The Arabic recognizers in
+models/ (rec_arabic*.onnx) are fine-tuned versions of the PP-OCRv5 Arabic
+recognizer; det.onnx and rec_latin.onnx are the PP-OCRv5 models converted to ONNX.

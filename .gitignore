@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+build/
+dist/
+*.spec.bak
+out/
+*.ocr.pdf
+*.ocr.txt
+*.ocr.docx
+*.ocr.html
+*.cards.csv
+# training data and fonts are not part of the repository
+training/fonts/
+training/fonts_deco/
+training/data_*/
+training/real/
+training/*.log
+# never commit real documents or ID cards
+private/
+*.zip
+
+# made by build_exe.bat
+EGY-OCR.spec
